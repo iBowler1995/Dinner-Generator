@@ -91,7 +91,7 @@ This script requires **PowerShell 7** or later to run. PowerShell 7 introduces m
    - Create an empty `.txt` file in your project directory.
    - Name the file appropriately, such as `random_numbers.txt`.
    - This file will be used by the project to track and store random numbers generated during execution.
-   - 
+   
 
 ## Usage Example
 
