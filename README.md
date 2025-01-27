@@ -71,6 +71,10 @@ This script requires **PowerShell 7** or later to run. PowerShell 7 introduces m
      - `Unit`: The unit of measurement (e.g., "oz," "cups," etc.). Leave empty if not applicable.
      - `Staple`: A true/false value indicating whether the ingredient is a staple item (e.g., salt, pepper, etc.).
 
+   **What are staple ingredients?**
+   - Staple ingredients are items you typically have on hand, such as oil, spices, milk, butter, etc. 
+   - By marking these items as staples in the JSON, the script can better organize the shopping list by excluding them unless explicitly needed.
+
    ### Example JSON
    ```json
    [
