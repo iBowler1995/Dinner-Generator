@@ -4,7 +4,22 @@ This project will pick weekly dinners for you and generate a shopping list for t
 
 # Pre-requisites
 
-There are a couple steps you need to complete before you can get this up and running. See below:
+This script requires **PowerShell 7** or later to run. PowerShell 7 introduces modern .NET APIs that are essential for certain parts of this script, such as handling JWT tokens for authentication. Follow these steps to install and open PowerShell 7:
+
+### Installing PowerShell 7
+1. Go to the official [PowerShell GitHub Releases page](https://github.com/PowerShell/PowerShell/releases).
+2. Download the latest stable version for your operating system:
+   - **Windows**: Look for the `.msi` installer under "Assets" (e.g., `PowerShell-7.x.x-win-x64.msi`).
+   - **macOS**: Download the `.pkg` file for macOS.
+   - **Linux**: Use the appropriate package for your Linux distribution (e.g., `.deb` for Ubuntu, `.rpm` for Red Hat).
+3. Run the installer and follow the on-screen instructions.
+
+### Opening PowerShell 7
+1. Once installed, search for **"PowerShell 7"** in your Start Menu (on Windows) or Applications folder (on macOS).
+2. Open it, and you’ll see a terminal window with the `pwsh` prompt (e.g., `PS>`).
+
+### There are also a couple steps you need to complete before you can get this up and running. See below:
+
 
 1. **Create Google Cloud project and download credential file**
 
@@ -42,7 +57,7 @@ There are a couple steps you need to complete before you can get this up and run
       - Go to **Settings** > **Calendars** > **Access permissions** for the calendar you want to automate.
       - Add the service account’s email address (found in the JSON file under `client_email`) and set the appropriate permissions (e.g., "Make changes to events").
 
-2. **Create a JSON file with meal details**
+2. **Create a JSON file with meal details** (I've also provided a 
 
    Construct a JSON file to store the details of each meal. For every meal, include the following attributes:
    - `Name`: The name of the meal.
