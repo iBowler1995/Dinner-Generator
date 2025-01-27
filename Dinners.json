@@ -1,0 +1,279 @@
+[
+    {
+        "Name": "BBQ Pork Tenderloin",
+        "Ingredients": [
+            { "Name": "Pork Tenderloin", "Quantity" : 0.5, "Unit":"", "Staple": false },
+            { "Name": "BBQ Sauce", "Quantity": 2, "Unit": "oz", "Staple": true },
+            { "Name": "Broccoli", "Quantity" : 0.5, "Unit": "lb", "Staple": false },
+            { "Name": "Corn", "Quantity" : 5, "Unit": "oz", "Staple": false }
+        ]
+    },
+    {
+        "Name": "Beef Stew",
+        "Ingredients": [
+            { "Name": "Yellow Onion", "Quantity": 1, "Unit":"", "Staple": false },
+            { "Name": "Carrot (large)", "Quantity": 2, "Unit":"", "Staple": false },
+            { "Name": "Potatoes", "Quantity": 2, "Unit":"", "Staple": false },
+            { "Name": "Beef Strips", "Quantity": 10,  "Unit":"oz", "Staple": false},
+            { "Name": "Chicken Broth", "Quantity": 2, "Unit": "oz", "Staple": false }
+        ]
+    },
+    {
+        "Name": "Beef Taco Mac and Cheese",
+        "Ingredients": [
+            { "Name": "Macaroni", "Quantity": 6, "Unit": "oz", "Staple": false },
+            { "Name": "Ground Beef", "Quantity": 10, "Unit": "oz", "Staple": false },
+            { "Name": "Taco Seasoning", "Quantity": null, "Unit": "",  "Staple": true },
+            { "Name": "VELVEETA Sheese Sauce", "Quantity": 4, "Unit": "oz", "Staple": false},
+            { "Name": "Salsa", "Quantity": 4, "Unit": "oz", "Staple": false },
+            { "Name": "Fritos", "Quantity": 2, "Unit": "bags", "Staple": false }
+        ]
+    },
+    {
+        "Name": "Buffalo Fried Chicken",
+        "Ingredients": [
+            { "Name": "Romaine Heart", "Quantity": 1, "Unit":"", "Staple": false },
+            { "Name": "Broccoli", "Quantity": 0.5, "Unit": "lb", "Staple": false },
+            { "Name": "Chicken Breast Strips", "Quantity": 10, "Unit": "oz", "Staple": false },
+            { "Name": "Artisan Buns", "Quantity": 2, "Unit":"", "Staple": false},
+            { "Name": "Buffalo Sauce", "Quantity": 2, "Unit": "oz", "Staple": false },
+            { "Name": "Egg", "Quantity": 1, "Unit":"", "Staple": true }
+        ]
+    },
+    {
+        "Name": "Cheesy Garlic Knot Ravioli",
+        "Ingredients": [
+            { "Name": "Cheese ravioli", "Quantity": 9, "Unit":"oz", "Staple": false },
+            { "Name": "Mozzarella", "Quantity": 4, "Unit": "oz", "Staple": false },
+            { "Name": "Scallions", "Quantity": 2, "Unit": "", "Staple": false },
+            { "Name": "Marinara Sauce", "Quantity": 8, "Unit":"oz", "Staple": false},
+            { "Name": "Butter", "Quantity": 2, "Unit": "tbsp", "Staple": true }
+        ]
+    },
+    {
+        "Name": "Chicken & Broccoli Mac & Cheese",
+        "Ingredients": [
+            { "Name": "Broccoli", "Quantity": 0.5, "Unit":"lb", "Staple": false },
+            { "Name": "Chicken Breast strips", "Quantity": 10, "Unit": "oz", "Staple": false },
+            { "Name": "Panko", "Quantity": 1, "Unit": "oz", "Staple": true },
+            { "Name": "Parmesan", "Quantity": 1, "Unit":"oz", "Staple": false},
+            { "Name": "Shredded Cheddar Jack", "Quantity": 2, "Unit": "oz", "Staple": false },
+            { "Name": "Butter", "Quantity": 4, "Unit": "tbsp", "Staple": true },
+            { "Name": "Flour", "Quantity": 2, "Unit": "tbsp", "Staple": true },
+            { "Name": "Milk", "Quantity": 1, "Unit": "cups", "Staple": true }
+        ]
+    },
+    {
+        "Name": "Chicken Marinara Meatballs",
+        "Ingredients": [
+            { "Name": "Ground Chicken", "Quantity": 10, "Unit":"oz", "Staple": false },
+            { "Name": "Parmesan", "Quantity": 1, "Unit": "oz", "Staple": false },
+            { "Name": "Panko", "Quantity": 1, "Unit": "oz", "Staple": true },
+            { "Name": "Marinara Sauce", "Quantity": 8, "Unit":"oz", "Staple": false}
+        ]
+    },
+    {
+        "Name": "Chicken Parm Sandwich",
+        "Ingredients": [
+            { "Name": "Potatoes", "Quantity": 2, "Unit":"", "Staple": false },
+            { "Name": "Chicken Breast Strips", "Quantity": 10, "Unit": "oz", "Staple": false },
+            { "Name": "Panko", "Quantity": 2, "Unit": "oz", "Staple": true },
+            { "Name": "Marinara Sauce", "Quantity": 8, "Unit":"oz", "Staple": false },
+            { "Name": "Ciabotta Rolls", "Quantity": 2, "Unit":"", "Staple": false },
+            { "Name": "Shredded Fontina", "Quanitty": 4, "Unit": "oz", "Staple": false },
+            { "Name": "Large Egg", "Quantity": 1, "Unit":"", "Staple": true },
+            { "Name": "Flour", "Quantity": 2, "Unit":"oz", "Staple": true }
+        ]
+    },
+    {
+        "Name": "Chicken & Veggie Stir-Fry",
+        "Ingredients": [
+            { "Name": "Udon Noodles", "Quantity": 7, "Unit":"oz", "Staple": false },
+            { "Name": "Chicken Breast Strips", "Quantity": 10, "Unit": "oz", "Staple": false },
+            { "Name": "Scallions", "Quantity": 2, "Unit": "", "Staple": false },
+            { "Name": "Teriyaki Sauce", "Quantity": 3, "Unit":"oz", "Staple": true},
+            { "Name": "Broccoli", "Quantity": 0.5, "Unit": "lb", "Staple": false },
+            { "Name": "White/AC Vinegar", "Quantity": 0.5, "Unit": "tsp", "Staple": true}
+        ]
+    },
+    {
+        "Name": "Crispy Parmesan Chicken with Roasted Broccoli",
+        "Ingredients": [
+            { "Name": "Broccoli", "Quantity": 0.5, "Unit":"lb", "Staple": false },
+            { "Name": "Panko", "Quantity": 1, "Unit": "oz", "Staple": true },
+            { "Name": "Parmesan", "Quantity": 1, "Unit": "oz", "Staple": false },
+            { "Name": "Chicken Breast", "Quantity": 10, "Unit":"oz", "Staple": false },
+            { "Name": "Chicken Broth", "Quantity": 2, "Unit":"tbsp", "Staple": false },
+            { "Name": "Sour Cream", "Quantity": 1, "Unit":"oz", "Staple": false },
+            { "Name": "Butter", "Quantity": 1, "Unit":"tbsp", "Staple": true },
+            { "Name": "White/AC Vinegar", "Quantity": 0.5, "Unit": "tsp", "Staple": true }
+        ]
+    },
+    {
+        "Name": "Creamy Lemon-Garlic Ravioli",
+        "Ingredients": [
+            { "Name": "Lemon", "Quantity": 1, "Unit":"", "Staple": false },
+            { "Name": "Cheese Ravioli", "Quantity": 9, "Unit": "oz", "Staple": false },
+            { "Name": "Parmesan", "Quantity": 1, "Unit": "oz", "Staple": false },
+            { "Name": "Broccoli", "Quantity": 0.5, "Unit":"lb", "Staple": false },
+            { "Name": "Cream Cheese", "Quantity": 1, "Unit":"oz", "Staple": false },
+            { "Name": "Flour", "Quantity": 1, "Unit":"tbsp", "Staple": true },
+            { "Name": "Milk", "Quantity": 0.5, "Unit":"cups", "Staple": true }
+        ]
+    },
+    {
+        "Name": "Crispy Parm Chicken Fingers",
+        "Ingredients": [
+            { "Name": "Broccoli", "Quantity": 0.5, "Unit":"lb", "Staple": false },
+            { "Name": "Panko", "Quantity": 2, "Unit": "oz", "Staple": true },
+            { "Name": "Parmesan", "Quantity": 1, "Unit": "oz", "Staple": false },
+            { "Name": "Chicken Breast Strips", "Quantity": 10, "Unit":"oz", "Staple": false },
+            { "Name": "BBQ Sauce", "Quantity": 2, "Unit":"oz", "Staple": true },
+            { "Name": "Large Egg", "Quantity": 1, "Unit":"", "Staple": true }
+        ]
+    },
+    {
+        "Name": "Garlic Butter Chicken and Parm Orzo",
+        "Ingredients": [
+            { "Name": "Broccoli", "Quantity": 0.5, "Unit":"lb", "Staple": false },
+            { "Name": "Orzo", "Quantity": 3, "Unit": "oz", "Staple": false },
+            { "Name": "Parmesan", "Quantity": 1, "Unit": "oz", "Staple": false },
+            { "Name": "Chicken Breast Strips", "Quantity": 10, "Unit":"oz", "Staple": false },
+            { "Name": "Chicken Broth", "Quantity": 2, "Unit":"tbsp", "Staple": false },
+            { "Name": "Butter", "Quantity": 2, "Unit":"tbsp", "Staple": true }
+        ]
+    },
+    {
+        "Name": "Galic Butter Pizza Bites",
+        "Ingredients": [
+            { "Name": "Mozzarella", "Quantity": 4, "Unit":"oz", "Staple": false },
+            { "Name": "Pizza Dough", "Quantity": 1, "Unit": "lb", "Staple": false },
+            { "Name": "Marinara Sauce", "Quantity": 16, "Unit": "oz", "Staple": false },
+            { "Name": "Parmesan", "Quantity": 1, "Unit":"oz", "Staple": false },
+            { "Name": "Butter", "Quantity": 3, "Unit":"tbsp", "Staple": true }
+        ]
+    },
+    {
+        "Name": "Homestyle Chicken & Biscuits",
+        "Ingredients": [
+            { "Name": "Potatoes", "Quantity": 2, "Unit":"", "Staple": false },
+            { "Name": "Carrot (large)", "Quantity": 3, "Unit": "", "Staple": false },
+            { "Name": "Chicken Broth", "Quantity": 2, "Unit": "tbsp", "Staple": false },
+            { "Name": "Chicken Breast Strips", "Quantity": 10, "Unit":"oz", "Staple": false },
+            { "Name": "Self-Rising Flour", "Quantity": 5, "Unit":"oz", "Staple": true },
+            { "Name": "Milk", "Quantity": 1.67, "Unit":"cups", "Staple": true },
+            { "Name": "White/AC Vinegar", "Quantity": 1, "Unit":"tsp", "Staple": true },
+            { "Name": "Flour", "Quantity": 2, "Unit":"tbsp", "Staple": true },
+            { "Name": "Butter", "Quantity": 4, "Unit":"tbsp", "Staple": true }
+        ]
+    },
+    {
+        "Name": "Lemony Chicken & Broccoli",
+        "Ingredients": [
+            { "Name": "Potatoes", "Quantity": 2, "Unit":"", "Staple": false },
+            { "Name": "Broccoli", "Quantity": 0.5, "Unit": "lb", "Staple": false },
+            { "Name": "Chicken Broth", "Quantity": 2, "Unit": "tbsp", "Staple": false },
+            { "Name": "Chicken Breast", "Quantity": 10, "Unit":"oz", "Staple": false },
+            { "Name": "Lemon", "Quantity": 1, "Unit":"", "Staple": false },
+            { "Name": "Large Egg", "Quantity": 1, "Unit":"", "Staple": true },
+            { "Name": "Flour", "Quantity": 0.5, "Unit":"cups", "Staple": true },
+            { "Name": "Butter", "Quantity": 1, "Unit":"tbsp", "Staple": true }
+        ]
+    },
+    {
+        "Name": "Ravioli Lasagna",
+        "Ingredients": [
+            { "Name": "Marinara Sauce", "Quantity": 8, "Unit":"oz", "Staple": false },
+            { "Name": "Cheese Ravioli", "Quantity": 8, "Unit": "oz", "Staple": false },
+            { "Name": "Parmesan", "Quantity": 1, "Unit": "oz", "Staple": false },
+            { "Name": "Shredded Fontina", "Quantity": 4, "Unit":"oz", "Staple": false }
+        ]
+    },
+    {
+        "Name": "Oven-Fried Cheese Ravioli",
+        "Ingredients": [
+            { "Name": "Panko", "Quantity": 2, "Unit":"oz", "Staple": true },
+            { "Name": "Broccoli", "Quantity": 0.5, "Unit": "lb", "Staple": false },
+            { "Name": "Cheese Ravioli", "Quantity": 9, "Unit": "oz", "Staple": false },
+            { "Name": "Parmesan", "Quantity": 1, "Unit":"oz", "Staple": false },
+            { "Name": "Large Egg", "Quantity": 1, "Unit":"", "Staple": true },
+            { "Name": "Sugar", "Quantity": 1, "Unit":"tsp", "Staple": true }
+        ]
+    },
+    {
+        "Name": "Pizza Sloppy Joes",
+        "Ingredients": [
+            { "Name": "Potatoes", "Quantity": 2, "Unit":"", "Staple": false },
+            { "Name": "Mozzarella", "Quantity": 4, "Unit": "oz", "Staple": false },
+            { "Name": "Artisan Buns", "Quantity": 2, "Unit": "", "Staple": false },
+            { "Name": "Ground Beef", "Quantity": 10, "Unit":"oz", "Staple": false },
+            { "Name": "Marinara Sauce", "Quantity": 8, "Unit":"oz", "Staple": false },
+            { "Name": "Sugar", "Quantity": 1, "Unit":"tsp", "Staple": true },
+            { "Name": "Flour", "Quantity": 2, "Unit":"tsp", "Staple": true }
+        ]
+    },
+    {
+        "Name": "Pulled Pork BBQ Fries",
+        "Ingredients": [
+            { "Name": "Potatoes", "Quantity": 2, "Unit":"", "Staple": false },
+            { "Name": "Scallions", "Quantity": 2, "Unit": "", "Staple": false },
+            { "Name": "Pulled Pork", "Quantity": 0.5, "Unit": "lb", "Staple": false },
+            { "Name": "BBQ Sauce", "Quantity": 2, "Unit":"oz", "Staple": true },
+            { "Name": "Shredded Fontina", "Quantity": 4, "Unit":"oz", "Staple": false }
+        ],
+        "Tag": "PulledPork"
+    },
+    {
+        "Name": "Pulled Pork Fried Rice",
+        "Ingredients": [
+            { "Name": "Jasmine Rice", "Quantity": 5, "Unit":"oz", "Staple": true },
+            { "Name": "Scallions", "Quantity": 2, "Unit": "", "Staple": false },
+            { "Name": "Pulled Pork", "Quantity": 0.5, "Unit": "lb", "Staple": false },
+            { "Name": "Teriyaki Sauce", "Quantity": 4, "Unit":"oz", "Staple": true },
+            { "Name": "Broccoli", "Quantity": 0.5, "Unit":"lb", "Staple": false },
+            { "Name": "White/AC Vinegar", "Quantity": 2, "Unit":"tsp", "Staple": true },
+            { "Name": "Large Egg", "Quantity": 2, "Unit":"", "Staple": true }
+        ],
+        "Tag": "PulledPork"
+    },
+    {
+        "Name": "Pulled Pork Macaroni & Cheese",
+        "Ingredients": [
+            { "Name": "Macaroni", "Quantity": 10, "Unit":"oz", "Staple": true },
+            { "Name": "Scallions", "Quantity": 2, "Unit": "", "Staple": false },
+            { "Name": "Pulled Pork", "Quantity": 0.5, "Unit": "lb", "Staple": false },
+            { "Name": "BBQ Sauce", "Quantity": 4, "Unit":"oz", "Staple": true },
+            { "Name": "Shredded Cheddar Jack", "Quantity": 4, "Unit":"oz", "Staple": false },
+            { "Name": "Shredded Cheddar", "Quantity": 6, "Unit":"oz", "Staple": false },
+            { "Name": "Ketchup", "Quantity": 0.25, "Unit":"cups", "Staple": true },
+            { "Name": "Butter", "Quantity": 1, "Unit":"tbsp", "Staple": true },
+            { "Name": "Flour", "Quantity": 1, "Unit":"tbsp", "Staple": true },
+            { "Name": "Milk", "Quantity": 1.5, "Unit":"cups", "Staple": true }
+        ],
+        "Tag": "PulledPork"
+    },
+    {
+        "Name": "Pulled Pork Baked Potatoes",
+        "Ingredients": [
+            { "Name": "Potatoes", "Quantity": 2, "Unit":"", "Staple": false },
+            { "Name": "Scallions", "Quantity": 2, "Unit": "", "Staple": false },
+            { "Name": "Pulled Pork", "Quantity": 0.5, "Unit": "lb", "Staple": false },
+            { "Name": "BBQ Sauce", "Quantity": 4, "Unit":"oz", "Staple": true },
+            { "Name": "Sour Cream", "Quantity": 2, "Unit":"oz", "Staple": false },
+            { "Name": "Butter", "Quantity": 2, "Unit":"tbsp", "Staple": true }
+        ],
+        "Tag": "PulledPork"
+    },
+    {
+        "Name": "Tuscan Rosemary Chicken",
+        "Ingredients": [
+            { "Name": "Potatoes", "Quantity": 2, "Unit":"", "Staple": false },
+            { "Name": "Rosemary", "Quantity": 0.25, "Unit": "oz", "Staple": false },
+            { "Name": "Chicken Breast", "Quantity": 10, "Unit": "oz", "Staple": false },
+            { "Name": "Chicken Broth", "Quantity": 2, "Unit":"tbsp", "Staple": false },
+            { "Name": "Parmesan", "Quantity": 1, "Unit":"oz", "Staple": false },
+            { "Name": "Butter", "Quantity": 1, "Unit":"tbsp", "Staple": true }
+        ]
+    }
+
+]
