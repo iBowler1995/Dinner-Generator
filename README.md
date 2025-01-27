@@ -72,3 +72,25 @@ There are a couple steps you need to complete before you can get this up and run
    - Create an empty `.txt` file in your project directory.
    - Name the file appropriately, such as `random_numbers.txt`.
    - This file will be used by the project to track and store random numbers generated during execution.
+   - 
+
+## Usage Example
+
+To use the script, ensure that the following files are in the same directory:
+- The script file.
+- The credentials JSON file (downloaded from Google Cloud).
+- The dinner JSON file (created in Step 2).
+- The text file for tracking random numbers (created in Step 3).
+
+```powershell
+C:\YourPath\ProjectFolder\DinnerPicker.ps1 -CountPath "DinnerCount.txt" -DinnerPath "dinners.json" -Id "your_calendar_id"
+```
+
+> **Tip:** To find your Google Calendar ID:
+>
+> 1. Open [Google Calendar](https://calendar.google.com/).
+> 2. Click on the **gear icon** (⚙️) and go to **Settings**.
+> 3. Under the **Settings for my calendars** section, select the calendar you want to use.
+> 4. Scroll down to the **Integrate calendar** section to find the **Calendar ID**.
+>    - The Calendar ID typically looks like a long string ending with `@group.calendar.google.com`.
+
