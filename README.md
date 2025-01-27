@@ -32,7 +32,6 @@ This script requires **PowerShell 7** or later to run. PowerShell 7 introduces m
       - Click on the project dropdown (top-left corner) and select **New Project**.
       - **Name the project**:
         - Avoid common or ambiguous names like "Calendar API." These can cause issues, such as being repeatedly prompted to configure the consent screen. Instead, choose a unique name, like `MyCalendarAutomationProject`.
-      - Select an organization (if applicable) and click **Create**.
 
    2. **Enable the Google Calendar API**
       - In the project dashboard, go to **APIs & Services** > **Library**.
