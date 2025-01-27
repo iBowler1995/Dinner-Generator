@@ -163,7 +163,7 @@ Function Add-GCalendarEvent{
     #Converting timestamps to ISO 8061 and retrieving our access token
     $StartTimeISO = $StartTime.ToString("yyyy-MM-ddTHH:mm:ssK")
     $EndTimeISO = $EndTime.ToString("yyyy-MM-ddTHH:mm:ssK")
-    $Token = Get-GoogleAccessToken -CredentialsFile "C:\Temp\API_SA.json"
+    $Token = Get-GoogleAccessToken -CredentialsFile $CredentialsFile
     
     Try{
         #Creating the JSON payload
