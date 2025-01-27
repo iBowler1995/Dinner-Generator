@@ -113,3 +113,5 @@ C:\YourPath\ProjectFolder\DinnerPicker.ps1 -CountPath "DinnerCount.txt" -DinnerP
 > 4. Scroll down to the **Integrate calendar** section to find the **Calendar ID**.
 >    - The Calendar ID typically looks like a long string ending with `@group.calendar.google.com`.
 
+### Last note, I've also added the Get-Dinners and Get-Ingredients functions separately, in case you want just them. I also added a version of Get-Dinners that doesn't have
+the pulled pork logic. That was just a niche quirk my case required. Just paste over the function in the main script if you want to get rid of it.
