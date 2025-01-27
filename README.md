@@ -2,6 +2,10 @@
 
 This project will pick weekly dinners for you and generate a shopping list for them. It then adds those items to a Google calendar as an event.
 
+# Privacy Note
+This project does require you to set your Google Calendar to **Public**. This means **anyone** who has your Gmail address can see all of your calendar. I **highly** recommend creating a sub-calendar
+for this under your Google Calendar. On the left-hand side of Google Calendar (in a desktop browser), expand **Add calendar** and click **create new calendar**
+
 # Pre-requisites
 
 This script requires **PowerShell 7** or later to run. PowerShell 7 introduces modern .NET APIs that are essential for certain parts of this script, such as handling JWT tokens for authentication. Follow these steps to install and open PowerShell 7:
@@ -52,10 +56,11 @@ This script requires **PowerShell 7** or later to run. PowerShell 7 introduces m
       - Choose **JSON** as the key type and click **Create**.
       - Save the downloaded JSON file securely. You’ll need it for automation.
 
-   6. **Share Your Calendar with the Service Account**
+   6. **Share Your Calendar with the Service Account and set it to Public**
       - Open your Google Calendar.
       - Go to **Settings** > **Calendars** > **Access permissions** for the calendar you want to automate.
       - Add the service account’s email address (found in the JSON file under `client_email`) and set the appropriate permissions (e.g., "Make changes to events").
+      - Under Access permissions for events, check the box **Make available to public**
 
 2. **Create a JSON file with meal details** (I've also provided a 
 
